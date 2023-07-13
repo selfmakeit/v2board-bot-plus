@@ -1,20 +1,22 @@
 debug: true
 isAutoDeleteMsg: true #是否自动删除bot信息
-inviteUrl: https://www.cybersilkroute.com/#/register?code= #邀请链接把邀请码去掉
-traffic: 1024
+appName: 畅联加速器
+websiteUrl: https://board.jike212.xyz/
+tgGroupLink: https://t.me/tstststsysyys
+inviteUrl: https://j12vpn2.net/?code= #邀请链接把邀请码去掉
 mysql:
-  host: 38.106.18.164
+  host: localhost
   port: 3306
   database: v2admin_jike
   username: spike
-  passwd: qwert4321!@!
+  passwd: 12345678
 redis:
   host: localhost:6379 #redis地址
   db: 0
   password: '' #redis有密码的话需要填
   cacheTime: 24 #缓存来自crisp的消息的时间
 telegram:
-  key: 5676734072:AAHXQUkRLjSpPl4343243242tQWFRBE0fxU6o #telegram bot的api key
+  key: 5672321372:AAHXQ4324324233423412E0fxU6o123 #telegram bot的api key
+  mode: group #群模式还是私聊模式，私聊模式则将消息发送到每个管理员
   admins:
-    - 6243816780 #管理员id
-    - 992759037
+    - 6223213180 #管理员id，私聊模式时发给这个列表
