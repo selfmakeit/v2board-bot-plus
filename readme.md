@@ -16,13 +16,13 @@
 
 ## 管理员端
 
-![1](../../../Pictures/traffic/admin1.png)
+![1](https://raw.githubusercontent.com/selfmakeit/resource/main/admin1.png)
 
 ## 用户端
 
-![2](../../../Pictures/traffic/user1.png)
+![2](https://raw.githubusercontent.com/selfmakeit/resource/main/user1.png)
 
-![3](../../../Pictures/traffic/user2.png)
+![3](https://raw.githubusercontent.com/selfmakeit/resource/main/user2.png)
 
 # 配置
 
