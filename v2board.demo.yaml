@@ -17,6 +17,5 @@ redis:
   cacheTime: 24 #缓存来自crisp的消息的时间
 telegram:
   key: 121232132:AAHXQ4324324233423412E0fxU6o123 #telegram bot的api key
-  mode: group #群模式还是私聊模式
   admins:
     - 6223132130 #管理员id
