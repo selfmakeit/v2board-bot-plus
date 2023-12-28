@@ -1,12 +1,5 @@
 # V2board机器人加强版
 
-## Bot定制请联系
-
-[交流群](https://t.me/GanYaBotGroup)
-
-[机器人频道](https://t.me/winbeeShop)
-
-**使用遇到问题、更多定制进入交流群。**
 
 ## 说明
 
